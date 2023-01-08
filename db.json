@@ -44,20 +44,13 @@
     },
     {
       "id": 7,
-      "name": "SAMSUNG GALAXY WATCH 5",
-      "price": 219.99,
-      "image": "https://image.darty.com/telephonie/telephone_mobile_seul/montre_connectee/samsung_gw5_40_bt_argent_s2208107148704B_121645358.jpg",
-      "detail": "Apprenez à connaître votre corps - Suivez votre condition physique grâce à la première montre connectée capable de mesurer votre composition corporelle(IMC, densité osseuse, taux d'hydratation, masse squelettique…). Défiez vos amis ou votre famille via des challenges stimulants. Relevez les défis pour remporter des badges et des points. L'exercice physique devient alors plus agréable et motivant Suivi sportif - Suivez vos activités et vos performances physiques sur votre montre et votre smartphone. Comptez vos pas, vérifiez vos calories brûlées, et restez sur la piste grâce au GPS intégré"
-    },
-    {
-      "id": 8,
       "name": "OPPO WATCH",
       "price": 99,
       "image": "https://image.darty.com/telephonie/telephone_mobile_seul/montre_connectee/oppo_watchfreebeige_s2203117069758A_151852805.jpg",
       "detail": "Apprenez à connaître votre corps - Suivez votre condition physique grâce à la première montre connectée capable de mesurer votre composition corporelle(IMC, densité osseuse, taux d'hydratation, masse squelettique…). Défiez vos amis ou votre famille via des challenges stimulants. Relevez les défis pour remporter des badges et des points. L'exercice physique devient alors plus agréable et motivant Suivi sportif - Suivez vos activités et vos performances physiques sur votre montre et votre smartphone. Comptez vos pas, vérifiez vos calories brûlées, et restez sur la piste grâce au GPS intégré"
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "XIAOMI WATCH S1",
       "price": 269,
       "image": "https://image.darty.com/telephonie/telephone_mobile_seul/montre_connectee/xiaomi_watch_s1_gl_black_t2203167071345A_114153326.png",
